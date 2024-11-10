@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pywz
+*.db
+*.sqlite3
+*.sqlite
+*.db3
